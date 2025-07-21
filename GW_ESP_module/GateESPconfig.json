@@ -1,5 +1,5 @@
 {
-    "firmwareURL": "https://github.com/vamsi-FSS190/OTA/blob/be3770bfe415624c704baac3cd202b93a7c4c160/GW_ESP_module/GatewayESPModule.bin",
+    "firmwareURL": "https://github.com/vamsi-FSS190/OTA/raw/refs/heads/master/GW_ESP_module/encrypted_GateESPconfig.txt",
     "firmwareSize": 412496,
     "FrwCRC": 1051010124,
     "Devicetype": 1,
