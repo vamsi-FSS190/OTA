@@ -1,0 +1,13 @@
+{
+    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/EndDevice/TU/10/10.bin",
+    "firmwareSize": 72244,
+    "FrwCRC": 1081449834,
+    "Devicetype": 4,
+    "DeviceID": 10,
+    "FrwSlotNum": 0,
+    "firmwareVersion": "0.0.1",
+    "additionalInfo": {
+        "releaseDate": "21.12.2020",
+        "description": "D:projectsCodeArduionLora espForS2_1"
+    }
+}

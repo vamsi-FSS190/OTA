@@ -1,0 +1,11 @@
+{
+    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_ESP_module/GatewayESPModule.bin",
+    "firmwareSize": 412496,
+    "FrwCRC": 1051010124,
+    "Devicetype": 1,
+    "firmwareVersion": "0.0.1",
+    "additionalInfo": {
+        "releaseDate": "21.12.2020",
+        "description": "D:projectsCodeArduionLora espForS2_1"
+    }
+}

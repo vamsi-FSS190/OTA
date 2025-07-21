@@ -1,0 +1,14 @@
+{
+    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_T_module/GatewayTModule.bin",
+    "firmwareSize": 77004,
+    "FrwCRC": 3236908350,
+    "Devicetype": 2,
+    "FrwSlotNum": 1,
+    "firmwareVersion": "0.0.1",
+    "additionalInfo": {
+        "releaseDate": "21.12.2020",
+        "description": "D:projectsCodeArduionLora espForS2_1"
+    },
+    "projectId": "FLORAXYI21A6",
+    "GWID": "FSS-RMC-GW09"
+}
